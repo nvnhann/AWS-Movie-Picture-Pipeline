@@ -368,6 +368,7 @@ pipenv run serve
 
 For production deployments, the team uses the following commands to build and run the Docker image.
 
+
 ```bash
 cd backend
 
